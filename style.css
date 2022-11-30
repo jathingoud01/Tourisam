@@ -2,6 +2,7 @@ body{
     background-image:url(/images/joshua-earle--87JyMb9ZfU-unsplash.jpg);
     background-size:cover;
     background-repeat: no-repeat;
+    opacity: 500px;
     
 }
 header{
@@ -16,7 +17,8 @@ header{
     box-shadow: 3px 3px 4px black;
 }
 img{
-    height: 400px;
-    width: 500px; 
-    margin-top: 80px;   
+    height: 200px;
+    width: 300px; 
+    margin-top: 80px;
+    margin:80px 20px 80px 20px ;   
 }
