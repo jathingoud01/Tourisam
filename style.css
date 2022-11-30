@@ -35,12 +35,12 @@ a img{
 }
 .paragraph{
     font-size: 20px;
-    color: white;
+    color: black;
     font-family: roboto;
-    /* text-shadow: 4px 4px 4px white; */
+    text-shadow: 4px 4px 4px white;
     
 
 }
 .j{
-    margin-top: 300px;
+    margin-top: 200px;
 }
