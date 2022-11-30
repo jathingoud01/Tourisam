@@ -10,7 +10,7 @@ header{
     text-align: center;
     line-height: 15px;
 }
-#button{
+#get{
     background-color: rgb(47, 45, 45);
     color: white;
     box-shadow: 3px 3px 4px black;
@@ -33,14 +33,20 @@ a img{
     border-radius: 80px;
     
 }
+.small {
+    background-color: rgba(28, 170, 183, 0.746);
+    /* opacity: %; */
+}
 .paragraph{
-    font-size: 20px;
-    color: black;
+    font-size: 40px;
+    color: red;
     font-family: roboto;
-    text-shadow: 4px 4px 4px white;
+    /* text-shadow: 4px 4px 4px white; */
     
 
 }
 .j{
+    text-align: center;
     margin-top: 200px;
 }
+
